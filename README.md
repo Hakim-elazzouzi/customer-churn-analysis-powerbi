@@ -5,7 +5,7 @@ provider, and where should the business focus retention efforts? Built end-to-en
 in Power BI, using DAX measures, calculated columns, and a 5-page dashboard, on the
 DataCamp case study dataset *"Analyzing Customer Churn in Power BI."*
 
-[![Overview page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page1_overview.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page1_overview.png)
+[![Overview page](<Power BI/screenshots>
 
 ## Key Findings
 
