@@ -87,14 +87,14 @@ calculated columns (e.g. merging Under 30 / Senior flags into one Age Segment fi
 
 ### Page 1: Overview
 
-[![Overview page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page1_overview.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page1_overview.png)
+![Overview page](<Power BI/screenshots/page1_overview.PNG>)
 
 Headline churn rate, top churn reasons, churn category split, contract type mix,
 and churn rate by state: the at-a-glance summary the other pages build on.
 
 ### Page 2: Customer Demographics
 
-[![Customer Demographics page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page2_customer_demographics.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page2_customer_demographics.png)
+![Customer Demographics page](<Power BI/screenshots/page2_customer_demographics.png>)
 
 Churn by age group, gender, and group-contract status. Age is modeled as a
 single 3-category field (Under 30 / 30–64 / Senior) rather than two overlapping
@@ -102,21 +102,21 @@ Yes/No flags, so the segment comparison reads cleanly.
 
 ### Page 3: Contract & Payment
 
-[![Contract and Payment page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page3_contract_and_payment.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page3_contract_and_payment.png)
+![Contract and Payment page](<Power BI/screenshots/page3_contract_and_payment.png>)
 
 Churn by contract type and payment method, plus account tenure against churn,
 the clearest single predictor in the dataset.
 
 ### Page 4: Usage & Charges
 
-[![Usage and Charges page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page4_usage_and_charges.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page4_usage_and_charges.png)
+![Usage and Charges page](<Power BI/screenshots/page4_usage_and_charges.png>)
 
 Churn against plan type (international/unlimited data), extra charges, and
 customer service call volume, a proxy for customer frustration before they leave.
 
 ### Page 5: Insights
 
-[![Insights page](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/raw/main/screenshots/page5_insights.png)](https://github.com/Hakim-elazzouzi/customer-churn-analysis-powerbi/blob/main/screenshots/page5_insights.png)
+![Insights page](<Power BI/screenshots/page5_insights.png>)
 
 The 4 headline findings, callout-style, each paired with a small supporting
 visual rather than a full chart to interpret.
