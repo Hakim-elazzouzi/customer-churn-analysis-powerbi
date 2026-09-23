@@ -1,0 +1,11 @@
+Customer ID,Churn Label,Churn Reason,Churn Category,Gender,Age,Under 30,Senior,Contract Type,Payment Method,State,Phone Number,Group,Number of Customers in Group,Account Length,Local Calls,Local Mins,Intl Calls,Intl Mins,Intl Active,Intl Plan,Extra International Charges,Customer Service Calls,Avg Monthly GB Download,Unlimited Data Plan,Extra Data Charges,Device Protection & Online Backup,Monthly Charges,Total Charges
+CUST-0001,Yes,Competitor made better offer,Competitor,Male,42,No,No,Month-to-Month,Credit Card,CA,555-010-0001,No,1,4,112,268,3,12,Yes,No,4.20,3,18,No,2.10,No,53.85,215.40
+CUST-0002,Yes,Attitude of support person,Attitude,Female,29,Yes,No,Month-to-Month,Paper Check,TX,555-010-0002,No,1,7,98,241,0,0,No,No,0.00,5,9,No,0.00,No,70.70,494.90
+CUST-0003,No,,,Female,61,No,Yes,One Year,Direct Debit,NY,555-010-0003,Yes,3,38,145,320,1,4,Yes,No,1.35,1,6,No,0.00,Yes,29.85,1134.30
+CUST-0004,No,,,Male,34,No,No,Two Year,Credit Card,WA,555-010-0004,Yes,2,52,201,410,2,7,Yes,Yes,0.00,0,22,Yes,0.00,Yes,89.10,4633.20
+CUST-0005,No,,,Female,71,No,Yes,Month-to-Month,Direct Debit,CA,555-010-0005,No,1,41,88,190,0,0,No,No,0.00,1,3,No,0.00,No,19.95,817.95
+CUST-0006,Yes,Price too high,Price,Male,52,No,No,Month-to-Month,Paper Check,FL,555-010-0006,No,1,3,110,255,4,16,Yes,No,5.60,4,20,No,3.40,No,64.30,192.90
+CUST-0007,Yes,Long distance charges,Dissatisfaction,Female,25,Yes,No,Month-to-Month,Credit Card,IL,555-010-0007,No,1,9,132,301,2,8,Yes,No,0.85,2,12,No,0.00,No,58.15,523.35
+CUST-0008,No,,,Male,45,No,No,Two Year,Direct Debit,CA,555-010-0008,Yes,4,60,178,388,1,3,Yes,No,0.40,0,15,Yes,0.00,Yes,74.50,4470.00
+CUST-0009,No,,,Female,33,No,No,One Year,Credit Card,OH,555-010-0009,No,1,22,95,210,0,0,No,No,0.00,1,7,No,0.00,No,45.20,994.40
+CUST-0010,Yes,Network reliability,Dissatisfaction,Male,68,No,Yes,Month-to-Month,Paper Check,CA,555-010-0010,No,1,6,120,275,0,0,No,No,0.00,6,11,No,0.00,No,55.90,335.40
